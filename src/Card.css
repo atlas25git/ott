@@ -1,0 +1,29 @@
+.button1 {
+    border: solid 10px red;
+    background-color: red;
+    color: rgb(236, 51, 51);
+    padding: 20px 60px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  img{
+      width: 200px;
+      height: 300px;
+  }
+  #io{
+    font-family: Impact, Charcoal, sans-serif;
+    font-stretch: expanded;
+    background-color: floralwhite;
+    padding: 5px;
+
+  }
+  #we{ 
+      background-color: sandybrown;
+  }
