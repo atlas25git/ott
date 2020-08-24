@@ -6,7 +6,7 @@ import 'tachyons';
 import App from './App';
 import { robots } from './robots';
 
-ReactDOM.render(<Router basename={process.env.PUBLIC_URL}></Router><App />,
+ReactDOM.render(<App />,
   document.getElementById('root')
 );
 
