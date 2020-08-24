@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ott/static/css/main.5d3885c8.chunk.css",
+    "main.js": "/ott/static/js/main.96d30470.chunk.js",
+    "main.js.map": "/ott/static/js/main.96d30470.chunk.js.map",
+    "runtime-main.js": "/ott/static/js/runtime-main.59efa96f.js",
+    "runtime-main.js.map": "/ott/static/js/runtime-main.59efa96f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ott/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.89f607b6.chunk.js": "/ott/static/js/2.89f607b6.chunk.js",
+    "static/js/2.89f607b6.chunk.js.map": "/ott/static/js/2.89f607b6.chunk.js.map",
+    "index.html": "/ott/index.html",
+    "precache-manifest.29639474b47d178d20bac488c9cc0da9.js": "/ott/precache-manifest.29639474b47d178d20bac488c9cc0da9.js",
+    "service-worker.js": "/ott/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ott/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5d3885c8.chunk.css.map": "/ott/static/css/main.5d3885c8.chunk.css.map",
+    "static/js/2.89f607b6.chunk.js.LICENSE.txt": "/ott/static/js/2.89f607b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59efa96f.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.89f607b6.chunk.js",
+    "static/css/main.5d3885c8.chunk.css",
+    "static/js/main.96d30470.chunk.js"
+  ]
+}
